@@ -2,7 +2,7 @@
 
 Yearly **SPI** (Standardized Precipitation Index) calculator. Upload monthly rainfall as a tab-separated text file; the app fits a gamma distribution and reports one SPI value per year.
 
-Originally deployed as [spi.booleandreams.com](https://spi.booleandreams.com/). Built for SPARRSO rainfall analysis (header credits Jagobandhu Some, Assistant Engineer, SPARRSO).
+Originally deployed as [spi.booleandreams.com](https://spi.booleandreams.com/). Built for SPARRSO rainfall analysis.
 
 This is **not** the Banglalink MSISDN checker. That is a different backup (`sumon.booleandreams.com` / `smart.aloasbei.com`).
 
